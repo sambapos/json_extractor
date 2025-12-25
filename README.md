@@ -1,1 +1,1 @@
-# json_extractor
+Clear and format JSON strings
